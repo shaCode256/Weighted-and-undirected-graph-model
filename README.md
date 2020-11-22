@@ -26,10 +26,10 @@ Continue as you wish. The project is full of descriptions about the functions an
 ## Pictures to help and visualize how it's going:
 
 Creating a graph:
-![Creating a graph](https://github.com/shaCode256/ex1/blob/feeacf95fbf195c88333e7e161055118753f9ed0/readMePictures/create%20a%20graph.png)
+![Creating a graph](https://github.com/shaCode256/ex1/blob/main/readMePictures/create%20a%20graph.png)
 
 Creating Nodes:
-![Creating Nodes](https://github.com/shaCode256/ex1/blob/feeacf95fbf195c88333e7e161055118753f9ed0/readMePictures/createNodes.png)
+![Creating Nodes](https://github.com/shaCode256/ex1/blob/main/readMePictures/createNodes.png)
 
 Running Tests0: **Update- the new ver. is with time stamps**
 ![Running Tests0](https://github.com/shaCode256/ex1/blob/main/readMePictures/testing%20with%20time.png)
