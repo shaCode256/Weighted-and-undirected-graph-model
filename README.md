@@ -44,7 +44,7 @@ GraphAlgo: (rithms, da ;) )
 ![GraphAlgo(rithms)](https://github.com/shaCode256/ex1/blob/main/readMePictures/Graph_Algo.png)
 
 The HashMap of the graph strcture:
-![HashMap- Graph structure](https://github.com/shaCode256/ex1/main/readMePictures/HashMap%20graph%20structure.png)
+![HashMap- Graph structure](https://github.com/shaCode256/ex1/blob/main/readMePictures/HashMap%20graph%20structure.png)
 
 
 Find me at GitHub: ShaCode256@
