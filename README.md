@@ -26,25 +26,25 @@ Continue as you wish. The project is full of descriptions about the functions an
 ## Pictures to help and visualize how it's going:
 
 Creating a graph:
-![Creating a graph](https://github.com/shaCode256/Ex1/blob/feeacf95fbf195c88333e7e161055118753f9ed0/readMePictures/create%20a%20graph.png)
+![Creating a graph](https://github.com/shaCode256/ex1/blob/feeacf95fbf195c88333e7e161055118753f9ed0/readMePictures/create%20a%20graph.png)
 
 Creating Nodes:
-![Creating Nodes](https://github.com/shaCode256/Ex1/blob/feeacf95fbf195c88333e7e161055118753f9ed0/readMePictures/createNodes.png)
+![Creating Nodes](https://github.com/shaCode256/ex1/blob/feeacf95fbf195c88333e7e161055118753f9ed0/readMePictures/createNodes.png)
 
 Running Tests0: **Update- the new ver. is with time stamps**
-![Running Tests0](https://github.com/shaCode256/Ex1/blob/master/readMePictures/testing%20with%20time.png)
+![Running Tests0](https://github.com/shaCode256/ex1/blob/main/readMePictures/testing%20with%20time.png)
 
 Running Tests1:
-![Running Tests1](https://github.com/shaCode256/Ex1/blob/feeacf95fbf195c88333e7e161055118753f9ed0/readMePictures/runTheTests.png)
+![Running Tests1](https://github.com/shaCode256/ex1/blob/main/readMePictures/runTheTests.png)
 
 !Running Tests2:
-![Running Tests2](https://github.com/shaCode256/Ex1/blob/feeacf95fbf195c88333e7e161055118753f9ed0/readMePictures/RunTheTests2.png)
+![Running Tests2](https://github.com/shaCode256/ex1/blob/main/readMePictures/RunTheTests2.png)
 
 GraphAlgo: (rithms, da ;) )
-![GraphAlgo(rithms)](https://github.com/shaCode256/Ex1/blob/feeacf95fbf195c88333e7e161055118753f9ed0/readMePictures/Graph_Algo.png)
+![GraphAlgo(rithms)](https://github.com/shaCode256/ex1/blob/main/readMePictures/Graph_Algo.png)
 
 The HashMap of the graph strcture:
-![HashMap- Graph structure](https://github.com/shaCode256/Ex1/blob/feeacf95fbf195c88333e7e161055118753f9ed0/readMePictures/HashMap%20graph%20structure.png)
+![HashMap- Graph structure](https://github.com/shaCode256/ex1/main/readMePictures/HashMap%20graph%20structure.png)
 
 
 Find me at GitHub: ShaCode256@
